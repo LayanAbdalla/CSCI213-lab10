@@ -1,4 +1,4 @@
-\#PRINTING COURSE INFORMATION
+\# PRINTING COURSE INFORMATION
 
 
 
@@ -12,23 +12,23 @@ This is the Git lab for CSCI 213 Software Development.
 
 The main method prints:
 
-\- courseName
+\* courseName
 
-\- instructor
+\* instructor
 
-\- semester
+\* semester
 
-\- credits
+\* credits
 
-\- classroom
+\* classroom
 
-\- time
+\* time
 
-\- nbStudents
+\* nbStudents
 
 
 
-\*\*Bold text example\*\*
+\_\_Bold text example\_\_
 
 
 
