@@ -1,4 +1,6 @@
-PRINTING COURSE INFORMATION
+\# PRINTING COURSE INFORMATION
+
+
 
 Author: Layan Abdalla
 
@@ -28,6 +30,8 @@ The main method prints:
 
 \*\*Bold text example\*\*
 
+
+
 \*Italic text example\*
 
 
@@ -35,4 +39,6 @@ The main method prints:
 \[GitHub](https://github.com)
 
 
+
+😊
 
