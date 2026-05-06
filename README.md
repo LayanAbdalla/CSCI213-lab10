@@ -16,6 +16,8 @@ This is the Git lab for CSCI 213 Software Development.
 
 The main method prints:
 
+
+
 \* courseName
 
 \* instructor
@@ -38,13 +40,13 @@ The main method prints:
 
 
 
-\_\_Bold text example\_\_
+this is a \_\_Bold text example\_\_
 
 
 
 
 
-\*Italic text example\*
+and this is an \*Italic text example\*
 
 
 
