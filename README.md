@@ -40,13 +40,13 @@ The main method prints:
 
 
 
-this is a \_\_Bold text example\_\_
+this is a\_\_Bold text example\_\_
 
 
 
 
 
-and this is an \*Italic text example\*
+and this is an\*Italic text example\*
 
 
 
