@@ -7,5 +7,6 @@ public class CourseInfo {
         System.out.println("Classroom: COP 204");
 	System.out.println("Class Time: 10:00 AM");
 	System.out.println("Number of Students: 25");
+	System.out.println("Number of Students: participating in a special project: 15");
     }
 }
